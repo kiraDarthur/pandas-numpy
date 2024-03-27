@@ -1,0 +1,33 @@
+vamos inicia tendo um belo resumo do que é a blibioteca PANDAS 
+https://www.youtube.com/watch?v=GhKVR72eJmA
+18:28
+
+
+______________________________________________________
+o que é i, array?
+
+
+vetor como programaçao:
+é ser um espaço contínuo na memória para organizar e armazenar uma coleção de elementos.
+https://kenzie.com.br/blog/o-que-array/
+
+https://www.youtube.com/watch?v=Hr4dyUyMfa0
+https://www.youtube.com/watch?v=u4rFAwUynKQ
+https://www.youtube.com/watch?v=j9473xQ39vY
+______________________________________________________
+matematicamente 
+https://www.youtube.com/watch?v=RRgBdqBl6Ig
+
+ ______________________________________________________
+ a diferença entre uma lista e  um vetor é que o vetor é uma lista de objetos do mesmo tipo ja lista vc pode colocar  varios tipos  diferentes , logo o vetor se torna mais rapido consumindo menos memoria , isso é importante para quando estar trabalhando com muitos dados 
+ 
+ ______________________________________________________
+ atalho do jupter 
+ https://www.alura.com.br/artigos/conhecendo-o-jupyter-notebook
+ 
+ ______________________________________________________
+ Documentaçao do Pandas 
+ https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html
+ ______________________________________________________
+ 
+ 
